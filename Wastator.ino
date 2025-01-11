@@ -9,13 +9,13 @@
 
 // Insert your network credentials
 #define WIFI_SSID "OmarElgaar"
-#define WIFI_PASSWORD "STEM 6th of OCT El-Doc. S'25"
+#define WIFI_PASSWORD "Password"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyB-XKMjuCxBSlx63fylpSKu095BqSQllnQ"
+#define API_KEY "API_KEY"
 
 // Define the RTDB URL
-#define DATABASE_URL "https://wastator-capstone-default-rtdb.firebaseio.com"
+#define DATABASE_URL "DATABASE_URL"
 
 FirebaseData fbdo;
 
